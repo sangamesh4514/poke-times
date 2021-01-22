@@ -5,6 +5,11 @@ import {connect} from 'react-redux'
 
 class Home extends Component{
 
+  componentDidUpdate(prevProps,prevState) {
+      if (this.props !== prevProps) {
+      console.log('userId changed ');
+   }
+ }
       render(){
         const {posts}=this.props
         const postlist=posts.length?(
