@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-React-redux  practice-web-app with static data.https://sangamesh4514.github.io/poke-times/
+React-redux  practice-web-app with static data.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
